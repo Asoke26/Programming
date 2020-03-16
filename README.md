@@ -4,6 +4,7 @@ This will include All my codes from different platform.
 
 CodeForces :
 
+Brutforce :
 1324B - https://codeforces.com/problemset/problem/1324/B
 
 
